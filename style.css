@@ -1,0 +1,9 @@
+body {
+    background-color: red;
+    color: white!important;
+}
+
+h2:hover {
+    background-color: white;
+    display: block;
+}
